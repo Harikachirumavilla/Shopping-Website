@@ -3,7 +3,7 @@
 
 # Shopping Website
 
-Landing page for the Converse store built using React, Vite, JavaScript and Tailwind CSS.
+An interactive shopping website built using React, Vite, JavaScript and Tailwind CSS.
 
 ## Features
 
